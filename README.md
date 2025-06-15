@@ -1,6 +1,43 @@
-## Hi there 👋
+# Hi there! 👋 I'm Giovanni Rebecchi
 
-My name is **Giovanni Rebecchi**, and I'm a bachelor student at UniTrento, I'm interested in hardware implementation but I'm also working on Rust programming language.
-- 🔭 I’m currently working on a multi-threaded application that exploits all the features of thread communication, check it out [here](https://github.com/giorebecchi/Rolling_Drones.git).
-- 🌱 I’m currently learning how to build a 4 stage pipeline RISC-V CPU using vhdl, link to the repo will soon be available!
-- 📫 How to reach me: email: giovanni.rebecchi04@gmail.com 
+### 🎓 About Me
+Bachelor student at **UniTrento** with a passion for **hardware implementation** and **Rust programming**. I love exploring the intersection between low-level systems and modern programming paradigms.
+
+---
+
+### 🚀 What I'm Working On
+
+**🔭 Current Project**  
+Building a **multi-threaded application** that showcases advanced thread communication patterns in Rust  
+→ [Check out Rolling Drones](https://github.com/giorebecchi/Rolling_Drones.git)
+
+**🌱 Learning Journey**  
+Designing a **4-stage pipeline RISC-V CPU** using VHDL  
+→ Repository coming soon! 🔜
+
+---
+
+### 🛠️ Tech Stack & Interests
+
+```
+🦀 Rust Programming    🔧 Hardware Implementation
+💾 VHDL Development    🏗️ System Architecture
+🧵 Concurrent Systems  ⚡ Performance Optimization
+```
+
+---
+
+### 📬 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-giovanni.rebecchi04%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovanni.rebecchi04@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@giovanni_rebecchi-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/giovanni_rebecchi)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Always excited to collaborate on interesting projects! 🚀</i>
+</div>
