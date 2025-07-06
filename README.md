@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ### 🎓 About Me
-Bachelor student at **UniTrento** with a passion for **hardware implementation** and **Rust programming**. I love exploring the intersection between low-level systems and modern programming paradigms.
+Bachelor student at **UniTrento** with a passion for **hardware implementation** and **Rust programming**.
 
 ---
 
