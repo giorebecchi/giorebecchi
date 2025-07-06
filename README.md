@@ -17,7 +17,7 @@ Designing a **4-stage pipeline RISC-V CPU** using VHDL
 
 ---
 
-### 🛠️ Tech Stack & Interests
+### 🛠️ Interests
 
 ```
 🦀 Rust Programming    🔧 Hardware Implementation
