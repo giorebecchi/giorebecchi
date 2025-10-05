@@ -13,7 +13,7 @@ Building a **multi-threaded application** that showcases advanced thread communi
 
 **🌱 Learning Journey**  
 Designing a **4-stage pipeline RISC-V CPU** using VHDL  
-→ Repository coming soon! 🔜
+→ [Check out RISC-V_CPU](https://github.com/giorebecchi/ALD_Project)
 
 ---
 
