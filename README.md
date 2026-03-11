@@ -31,12 +31,17 @@ Designing a **4-stage pipeline RISC-V CPU** using VHDL
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-giovanni.rebecchi04%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovanni.rebecchi04@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@giovanni_rebecchi-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/giovanni_rebecchi)
+<a href="mailto:giovanni.rebecchi04@gmail.com">
+<img src="https://img.shields.io/badge/Email-giovanni.rebecchi04%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://t.me/giovanni_rebecchi">
+<img src="https://img.shields.io/badge/Telegram-@giovanni_rebecchi-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
 </div>
 
-
+---
 
 ### 📊 GitHub Stats
 
