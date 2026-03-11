@@ -37,19 +37,19 @@ Designing a **4-stage pipeline RISC-V CPU** using VHDL
 </div>
 
 
+
 ### 📊 GitHub Stats
 
 <div align="center">
 
-![Giovanni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giorebecchi&show_icons=true&theme=radical&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=giorebecchi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giorebecchi&layout=compact&theme=radical&hide_border=true)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorebecchi&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 
 </div>
 
 ---
 
 <div align="center">
-  <i>Always excited to collaborate on interesting projects! 🚀</i>
+<i>Always excited to collaborate on interesting projects! 🚀</i>
 </div>
