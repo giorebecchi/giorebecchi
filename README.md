@@ -7,18 +7,12 @@ Bachelor student at **UniTrento** with a passion for **hardware implementation**
 
 ### 🚀 What I'm Working On
 
-**🔭 Current Project**  
-Improving the performance of a machine learning model for my bachelor thesis, using state-of-the-art technologies for Reinforcement Learning
-→ [Check out SMoSE](https://github.com/giorebecchi/SMoSE.git)
+- 🔭 **Current Project:** Improving the performance of a machine learning model for my bachelor thesis using state-of-the-art reinforcement learning techniques → [SMoSE](https://github.com/giorebecchi/SMoSE)
 
-
-**🌱 Learning Journey**  
-Implementing a **Software Defined Firewall** using Kathara and Docker
-→ [Check out SDN-firewall](https://github.com/z4pp4l4/NGN-SDN_firewall.git)
-Building a **multi-threaded application** that showcases advanced thread communication patterns in Rust  
-→ [Check out Rolling Drones](https://github.com/giorebecchi/Rolling_Drones.git)
-Designing a **4-stage pipeline RISC-V CPU** using VHDL  
-→ [Check out RISC-V_CPU](https://github.com/giorebecchi/ALD_Project)
+- 🌱 **Learning Journey:**
+  - Implementing a **Software Defined Firewall** using Kathara and Docker → [SDN-firewall](https://github.com/z4pp4l4/NGN-SDN_firewall)
+  - Building a **multi-threaded Rust application** showcasing advanced thread communication patterns → [Rolling Drones](https://github.com/giorebecchi/Rolling_Drones)
+  - Designing a **4-stage pipeline RISC-V CPU** in VHDL → [RISC-V_CPU](https://github.com/giorebecchi/ALD_Project)
 
 ---
 
