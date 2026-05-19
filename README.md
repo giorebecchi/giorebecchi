@@ -40,12 +40,3 @@ Bachelor student at **UniTrento** with a passion for **hardware implementation**
 
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giorebecchi&show_icons=true&theme=radical&hide_border=true" />
-
-</div>
